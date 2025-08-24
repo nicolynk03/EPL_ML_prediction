@@ -1,10 +1,13 @@
-# Web Scraping Football Matches Practice Project
-This project further explores **web scraping** and **machine learning** with Python by getting and analysing data from the [English Premier League (EPL)](https://www.premierleague.com/).
+# Predicting PL Winner: Web Scraping & Machine Learning with Python
+This practice project further explores how **web scraping** and **machine learning** with Python can be used to analyse and predict outcomes in the [English Premier League (EPL)](https://www.premierleague.com/).
 
 ## Learning Objectives
-* 🕸️ Scraped live EPL stats from FBref using BeautifulSoup, pandas, and cloudscraper.
-* 📊 Processed and cleaned the data into structured DataFrames.
+* 🕸️ Web Scraping: Collected live team and player statistics using BeautifulSoup and cloudscraper.
+
+* 📊 Data Analysis: Processed and structured the data with pandas for insights.
+
 * 🤖 Built machine learning models to predict the EPL winner based on team performance statistics.
+
 * ⚽ Gained hands-on experience combining data collection, data analysis, and predictive modeling in a real-world football context.
 
 ## Reference List
